@@ -1,0 +1,50 @@
+.Modal{
+    background-color: rgb(241, 241, 236);
+    border: 1px  solid rgb(184, 181, 181);
+    box-shadow: 1px 1px 1px black;
+    padding: 16px;
+    width: 50%;
+    height: 90%;
+    box-sizing: border-box;
+    transition: all 0.3s ease-out;
+    margin-top: -290px;
+    margin-left: 200px;   
+    margin-right: 200px; 
+    z-index: 100;
+    position: fixed;
+    padding-left: 75px;
+}
+.bouto{
+    background-color: rgb(241, 60, 60);
+    margin-left: 500px;
+    height: 35px;
+    width: 50px;
+    border: 1px solid white;
+    border-radius: 5px;
+       
+}
+.input{
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 10px 0px 0px;
+}
+.label{
+    padding-top: 10px;
+    padding-left: -20px;
+    font-weight:bold;
+}
+.bouto1{
+    background-color: rgb(98, 173, 243);
+    margin-right: 350px;
+    margin-top: 20px;
+    border: 1px solid white;
+    width: 80px;
+}
+.bouto2{
+    background-color: rgb(98, 173, 243);
+    margin-top: 20px;
+    border: 1px solid white;
+    width: 80px;
+}
